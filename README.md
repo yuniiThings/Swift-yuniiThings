@@ -15,6 +15,8 @@ iOS Study Project
 - text field ::
 <br/> 속성 인스펙터에서 찾을 수 있음. -> keyboard type
 <br/> 10진수 키보드 타입 decimal pad , correction, spell checking 을 no로 선택
+- if let 구문의 where절이 ,로 대체하라는 메세지가 노출됨
+<br/> swift 버전 차이에 따른 변경사항인지 확인 필요.
 
 ---
 
