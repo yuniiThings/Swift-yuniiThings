@@ -10,6 +10,12 @@ iOS Study Project
 - UIView, 제약조건 관련 공부중
 - 제약조건 Align 메뉴에서 update frames 팝업을 찾을 수 없었음 : (17.11.26: xCode 버전차이 문제)
 
+### 17.12.03
+- 오토레이아웃 :: 하나의 개체에 제약조건을 건 뒤, 같이 움직일 개체들을 선택하여 추가적으로 제약조건을 걸어준다.
+- text field ::
+<br/> 속성 인스펙터에서 찾을 수 있음. -> keyboard type
+<br/> 10진수 키보드 타입 decimal pad , correction, spell checking 을 no로 선택
+
 ---
 
 ## 기타사항
