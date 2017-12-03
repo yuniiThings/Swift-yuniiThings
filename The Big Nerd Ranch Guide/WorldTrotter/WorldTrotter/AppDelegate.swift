@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Quiz
+//  WorldTrotter
 //
-//  Created by Jong-Yun on 2017. 11. 7..
+//  Created by Jong-Yun on 2017. 11. 19..
 //  Copyright © 2017년 Jong-Yun. All rights reserved.
 //
 
